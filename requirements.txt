@@ -1,0 +1,11 @@
+spacy
+customtkinter
+fastapi
+uvicorn
+pymongo
+apscheduler
+plyer
+SpeechRecognition
+pyttsx3
+pywin32
+pyaudio
